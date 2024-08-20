@@ -1,2 +1,2 @@
 # Seam-Curving
-Implemented a data type that resizes images using seam-curving technique.
+Implemented a data type that resizes images using seam-carving technique.
